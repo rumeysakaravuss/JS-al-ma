@@ -108,6 +108,10 @@ main {
     margin-bottom: 1rem
 }
 
+#Tasks .task .content {
+    flex: 1 1 0%;
+}
+
 #Tasks .task .content .text {
     color: var(--light);
     font-size: 1.125rem;
@@ -152,4 +156,3 @@ main {
 .task .actions .delete {
     color: crimson;
 }
-.actions
