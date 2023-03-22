@@ -69,4 +69,4 @@ window.addEventListener('load', () =>  {
         });
     });
 });
-satisfies
+onafterprint
